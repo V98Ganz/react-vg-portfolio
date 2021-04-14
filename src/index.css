@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: #f7f3d483;
+}
+
+.App {
+    text-align: center;
+}
+
+nav {
+    background-color: #266686;
+    overflow: hidden;
+    position: sticky;
+    /* top: 0; */
+}
+.nav-item {
+    color: aliceblue;
+    margin: 1% 1%;
+    text-decoration: none;
+    float: left;
+  }
