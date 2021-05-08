@@ -11,7 +11,7 @@ function App() {
     <div className="App" >
       <Nav />
       <Router>
-        <Home path="/react-vg-portfolio" />
+        <Home path="/home" />
         <Projects path="/projects" />
         <About path="/about" />
         <Contact path="/contact" />
